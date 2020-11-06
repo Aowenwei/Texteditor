@@ -1,0 +1,4 @@
+D:/QtCode/Windows/texteditor/cmake-build-debug/CMakeFiles/texteditor.dir
+D:/QtCode/Windows/texteditor/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/QtCode/Windows/texteditor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/QtCode/Windows/texteditor/cmake-build-debug/CMakeFiles/texteditor_autogen.dir

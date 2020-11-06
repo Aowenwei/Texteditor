@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "texteditor",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "texteditor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-texteditor-Debug-0956576c8d40a80f7651.json",
+					"name" : "texteditor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "texteditor_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-texteditor_autogen-Debug-fb2ee26ab622f76bd6a2.json",
+					"name" : "texteditor_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/QtCode/Windows/texteditor/build-texteditor-Desktop_Qt_5_14_2_MinGW_64_bit-Debug",
+		"source" : "D:/QtCode/Windows/texteditor"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}

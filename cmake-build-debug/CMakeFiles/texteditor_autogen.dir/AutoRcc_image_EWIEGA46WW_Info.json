@@ -1,0 +1,25 @@
+{
+	"BUILD_DIR" : "D:/QtCode/Windows/texteditor/cmake-build-debug/texteditor_autogen",
+	"CMAKE_BINARY_DIR" : "D:/QtCode/Windows/texteditor/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/QtCode/Windows/texteditor/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/QtCode/Windows/texteditor",
+	"CMAKE_SOURCE_DIR" : "D:/QtCode/Windows/texteditor",
+	"INCLUDE_DIR" : "D:/QtCode/Windows/texteditor/cmake-build-debug/texteditor_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/QtCode/Windows/texteditor/image/save.png",
+		"D:/QtCode/Windows/texteditor/image/file.png",
+		"D:/QtCode/Windows/texteditor/image/closefile.png",
+		"D:/QtCode/Windows/texteditor/image/about.png"
+	],
+	"LOCK_FILE" : "D:/QtCode/Windows/texteditor/cmake-build-debug/CMakeFiles/texteditor_autogen.dir/AutoRcc_image_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "image" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_image.cpp",
+	"RCC_EXECUTABLE" : "D:/Qt5.14.2/5.14.2/mingw73_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/QtCode/Windows/texteditor/cmake-build-debug/CMakeFiles/texteditor_autogen.dir/AutoRcc_image_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/QtCode/Windows/texteditor/image.qrc",
+	"VERBOSITY" : 0
+}
