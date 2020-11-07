@@ -9,8 +9,10 @@
 	[
 		"D:/QtCode/Windows/texteditor/image/save.png",
 		"D:/QtCode/Windows/texteditor/image/file.png",
+		"D:/QtCode/Windows/texteditor/image/font.png",
 		"D:/QtCode/Windows/texteditor/image/closefile.png",
-		"D:/QtCode/Windows/texteditor/image/about.png"
+		"D:/QtCode/Windows/texteditor/image/about.png",
+		"D:/QtCode/Windows/texteditor/image/exit.png"
 	],
 	"LOCK_FILE" : "D:/QtCode/Windows/texteditor/cmake-build-debug/CMakeFiles/texteditor_autogen.dir/AutoRcc_image_EWIEGA46WW_Lock.lock",
 	"MULTI_CONFIG" : false,

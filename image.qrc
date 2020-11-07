@@ -4,5 +4,7 @@
         <file>image/about.png</file>
         <file>image/closefile.png</file>
         <file>image/save.png</file>
+        <file>image/font.png</file>
+        <file>image/exit.png</file>
     </qresource>
 </RCC>
