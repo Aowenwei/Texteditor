@@ -1,10 +1,19 @@
 <RCC>
     <qresource prefix="/">
+        <file>image/Cut.png</file>
+        <file>image/Undo.png</file>
         <file>image/file.png</file>
-        <file>image/about.png</file>
-        <file>image/closefile.png</file>
         <file>image/save.png</file>
         <file>image/font.png</file>
         <file>image/exit.png</file>
+        <file>image/Copy.png</file>
+        <file>image/about.png</file>
+        <file>image/Paste.png</file>
+        <file>image/delete.png</file>
+        <file>image/backcolor.png</file>
+        <file>image/closefile.png</file>
+        <file>image/fontcolor.png</file>
+        <file>image/SelectAll.png</file>
+
     </qresource>
 </RCC>

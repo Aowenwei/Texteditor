@@ -5,7 +5,15 @@
 	"CMAKE_CURRENT_SOURCE_DIR" : "D:/QtCode/Windows/texteditor",
 	"CMAKE_SOURCE_DIR" : "D:/QtCode/Windows/texteditor",
 	"INCLUDE_DIR" : "D:/QtCode/Windows/texteditor/build-texteditor-Desktop_Qt_5_14_2_MinGW_64_bit-Debug/texteditor_autogen/include",
-	"INPUTS" : [ "D:/QtCode/Windows/texteditor/image/file.png" ],
+	"INPUTS" : 
+	[
+		"D:/QtCode/Windows/texteditor/image/save.png",
+		"D:/QtCode/Windows/texteditor/image/file.png",
+		"D:/QtCode/Windows/texteditor/image/font.png",
+		"D:/QtCode/Windows/texteditor/image/closefile.png",
+		"D:/QtCode/Windows/texteditor/image/about.png",
+		"D:/QtCode/Windows/texteditor/image/exit.png"
+	],
 	"LOCK_FILE" : "D:/QtCode/Windows/texteditor/build-texteditor-Desktop_Qt_5_14_2_MinGW_64_bit-Debug/CMakeFiles/texteditor_autogen.dir/AutoRcc_image_EWIEGA46WW_Lock.lock",
 	"MULTI_CONFIG" : false,
 	"OPTIONS" : [ "-name", "image" ],

@@ -16,6 +16,7 @@
 #include <QtWidgets/QMainWindow>
 #include <QtWidgets/QMenuBar>
 #include <QtWidgets/QStatusBar>
+#include <QtWidgets/QTextEdit>
 #include <QtWidgets/QWidget>
 
 QT_BEGIN_NAMESPACE
@@ -24,10 +25,11 @@ class Ui_texteditor
 {
 public:
     QAction *New;
-    QAction *Open;
+    QAction *menu_file_Open;
     QAction *save;
     QWidget *centralwidget;
     QGridLayout *gridLayout;
+    QTextEdit *textEdit;
     QMenuBar *menubar;
     QStatusBar *statusbar;
 
@@ -38,14 +40,19 @@ public:
         texteditor->resize(800, 600);
         New = new QAction(texteditor);
         New->setObjectName(QString::fromUtf8("New"));
-        Open = new QAction(texteditor);
-        Open->setObjectName(QString::fromUtf8("Open"));
+        menu_file_Open = new QAction(texteditor);
+        menu_file_Open->setObjectName(QString::fromUtf8("menu_file_Open"));
         save = new QAction(texteditor);
         save->setObjectName(QString::fromUtf8("save"));
         centralwidget = new QWidget(texteditor);
         centralwidget->setObjectName(QString::fromUtf8("centralwidget"));
         gridLayout = new QGridLayout(centralwidget);
         gridLayout->setObjectName(QString::fromUtf8("gridLayout"));
+        textEdit = new QTextEdit(centralwidget);
+        textEdit->setObjectName(QString::fromUtf8("textEdit"));
+
+        gridLayout->addWidget(textEdit, 0, 0, 1, 1);
+
         texteditor->setCentralWidget(centralwidget);
         menubar = new QMenuBar(texteditor);
         menubar->setObjectName(QString::fromUtf8("menubar"));
@@ -67,12 +74,12 @@ public:
 #if QT_CONFIG(shortcut)
         New->setShortcut(QCoreApplication::translate("texteditor", "Ctrl+N", nullptr));
 #endif // QT_CONFIG(shortcut)
-        Open->setText(QCoreApplication::translate("texteditor", "\346\211\223\345\274\200(O)", nullptr));
+        menu_file_Open->setText(QCoreApplication::translate("texteditor", "\346\211\223\345\274\200(O)", nullptr));
 #if QT_CONFIG(tooltip)
-        Open->setToolTip(QCoreApplication::translate("texteditor", "\346\211\223\345\274\200(O)", nullptr));
+        menu_file_Open->setToolTip(QCoreApplication::translate("texteditor", "\346\211\223\345\274\200(O)", nullptr));
 #endif // QT_CONFIG(tooltip)
 #if QT_CONFIG(shortcut)
-        Open->setShortcut(QCoreApplication::translate("texteditor", "Ctrl+O", nullptr));
+        menu_file_Open->setShortcut(QCoreApplication::translate("texteditor", "Ctrl+O", nullptr));
 #endif // QT_CONFIG(shortcut)
         save->setText(QCoreApplication::translate("texteditor", "\344\277\235\345\255\230(s)", nullptr));
 #if QT_CONFIG(tooltip)

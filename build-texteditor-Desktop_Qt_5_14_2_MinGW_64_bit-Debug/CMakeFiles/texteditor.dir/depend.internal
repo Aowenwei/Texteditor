@@ -81,7 +81,9 @@ CMakeFiles/texteditor.dir/main.cpp.obj
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtCore/qvarlengtharray.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtCore/qvector.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtCore/qversiontagging.h
+ D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/QClipboard
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qbrush.h
+ D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qclipboard.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qcolor.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qcursor.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qevent.h
@@ -97,17 +99,12 @@ CMakeFiles/texteditor.dir/main.cpp.obj
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qpaintdevice.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qpainterpath.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qpalette.h
- D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qpen.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qpixelformat.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qpixmap.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qpolygon.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qregion.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qrgb.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qrgba64.h
- D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qtextcursor.h
- D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qtextdocument.h
- D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qtextformat.h
- D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qtextoption.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qtgui-config.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qtguiglobal.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qtouchdevice.h
@@ -117,26 +114,26 @@ CMakeFiles/texteditor.dir/main.cpp.obj
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qwindowdefs_win.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QAction
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QApplication
+ D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QColorDialog
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QFileDialog
- D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QGridLayout
+ D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QFontDialog
+ D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QLabel
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QMainWindow
- D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QTextEdit
- D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qabstractscrollarea.h
+ D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QMessageBox
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qaction.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qactiongroup.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qapplication.h
- D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qboxlayout.h
+ D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qcolordialog.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qdesktopwidget.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qdialog.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qfiledialog.h
+ D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qfontdialog.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qframe.h
- D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qgridlayout.h
- D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qlayout.h
- D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qlayoutitem.h
+ D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qlabel.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qmainwindow.h
+ D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qmessagebox.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qsizepolicy.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qtabwidget.h
- D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qtextedit.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qtwidgets-config.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qtwidgetsglobal.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qwidget.h
@@ -223,7 +220,9 @@ CMakeFiles/texteditor.dir/texteditor.cpp.obj
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtCore/qvarlengtharray.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtCore/qvector.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtCore/qversiontagging.h
+ D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/QClipboard
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qbrush.h
+ D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qclipboard.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qcolor.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qcursor.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qevent.h
@@ -259,10 +258,14 @@ CMakeFiles/texteditor.dir/texteditor.cpp.obj
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qwindowdefs_win.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QAction
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QApplication
+ D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QColorDialog
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QFileDialog
+ D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QFontDialog
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QGridLayout
+ D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QLabel
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QMainWindow
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QMenuBar
+ D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QMessageBox
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QStatusBar
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QTextEdit
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QWidget
@@ -271,16 +274,20 @@ CMakeFiles/texteditor.dir/texteditor.cpp.obj
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qactiongroup.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qapplication.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qboxlayout.h
+ D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qcolordialog.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qdesktopwidget.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qdialog.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qfiledialog.h
+ D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qfontdialog.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qframe.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qgridlayout.h
+ D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qlabel.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qlayout.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qlayoutitem.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qmainwindow.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qmenu.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qmenubar.h
+ D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qmessagebox.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qsizepolicy.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qstatusbar.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qtabwidget.h
@@ -371,7 +378,9 @@ CMakeFiles/texteditor.dir/texteditor_autogen/mocs_compilation.cpp.obj
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtCore/qvarlengtharray.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtCore/qvector.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtCore/qversiontagging.h
+ D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/QClipboard
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qbrush.h
+ D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qclipboard.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qcolor.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qcursor.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qevent.h
@@ -385,17 +394,12 @@ CMakeFiles/texteditor.dir/texteditor_autogen/mocs_compilation.cpp.obj
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qpaintdevice.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qpainterpath.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qpalette.h
- D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qpen.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qpixelformat.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qpixmap.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qpolygon.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qregion.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qrgb.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qrgba64.h
- D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qtextcursor.h
- D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qtextdocument.h
- D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qtextformat.h
- D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qtextoption.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qtgui-config.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qtguiglobal.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qtouchdevice.h
@@ -404,24 +408,24 @@ CMakeFiles/texteditor.dir/texteditor_autogen/mocs_compilation.cpp.obj
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qwindowdefs.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qwindowdefs_win.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QAction
+ D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QColorDialog
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QFileDialog
- D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QGridLayout
+ D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QFontDialog
+ D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QLabel
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QMainWindow
- D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QTextEdit
- D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qabstractscrollarea.h
+ D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QMessageBox
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qaction.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qactiongroup.h
- D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qboxlayout.h
+ D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qcolordialog.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qdialog.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qfiledialog.h
+ D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qfontdialog.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qframe.h
- D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qgridlayout.h
- D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qlayout.h
- D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qlayoutitem.h
+ D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qlabel.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qmainwindow.h
+ D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qmessagebox.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qsizepolicy.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qtabwidget.h
- D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qtextedit.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qtwidgets-config.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qtwidgetsglobal.h
  D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qwidget.h

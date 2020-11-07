@@ -77,7 +77,12 @@ include CMakeFiles/texteditor.dir/flags.make
 
 texteditor_autogen/EWIEGA46WW/qrc_image.cpp: ../image.qrc
 texteditor_autogen/EWIEGA46WW/qrc_image.cpp: CMakeFiles/texteditor_autogen.dir/AutoRcc_image_EWIEGA46WW_Info.json
+texteditor_autogen/EWIEGA46WW/qrc_image.cpp: ../image/save.png
 texteditor_autogen/EWIEGA46WW/qrc_image.cpp: ../image/file.png
+texteditor_autogen/EWIEGA46WW/qrc_image.cpp: ../image/font.png
+texteditor_autogen/EWIEGA46WW/qrc_image.cpp: ../image/closefile.png
+texteditor_autogen/EWIEGA46WW/qrc_image.cpp: ../image/about.png
+texteditor_autogen/EWIEGA46WW/qrc_image.cpp: ../image/exit.png
 texteditor_autogen/EWIEGA46WW/qrc_image.cpp: D:/Qt5.14.2/5.14.2/mingw73_64/bin/rcc.exe
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=D:\QtCode\Windows\texteditor\build-texteditor-Desktop_Qt_5_14_2_MinGW_64_bit-Debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic RCC for image.qrc"
 	D:\CMake\bin\cmake.exe -E cmake_autorcc D:/QtCode/Windows/texteditor/build-texteditor-Desktop_Qt_5_14_2_MinGW_64_bit-Debug/CMakeFiles/texteditor_autogen.dir/AutoRcc_image_EWIEGA46WW_Info.json Debug

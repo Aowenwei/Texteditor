@@ -776,6 +776,10 @@ D:/Qt5.14.2/5.14.2/mingw73_64/include/QtCore/qversiontagging.h
 QtCore/qglobal.h
 -
 
+D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/QClipboard
+qclipboard.h
+D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qclipboard.h
+
 D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qbrush.h
 QtGui/qtguiglobal.h
 -
@@ -796,6 +800,12 @@ QtGui/qtransform.h
 QtGui/qimage.h
 -
 QtGui/qpixmap.h
+-
+
+D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qclipboard.h
+QtGui/qtguiglobal.h
+-
+QtCore/qobject.h
 -
 
 D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qcolor.h
@@ -1174,13 +1184,25 @@ D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QApplication
 qapplication.h
 D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qapplication.h
 
+D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QColorDialog
+qcolordialog.h
+D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qcolordialog.h
+
 D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QFileDialog
 qfiledialog.h
 D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qfiledialog.h
 
+D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QFontDialog
+qfontdialog.h
+D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qfontdialog.h
+
 D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QGridLayout
 qgridlayout.h
 D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qgridlayout.h
+
+D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QLabel
+qlabel.h
+D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qlabel.h
 
 D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QMainWindow
 qmainwindow.h
@@ -1189,6 +1211,10 @@ D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qmainwindow.h
 D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QMenuBar
 qmenubar.h
 D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qmenubar.h
+
+D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QMessageBox
+qmessagebox.h
+D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qmessagebox.h
 
 D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/QStatusBar
 qstatusbar.h
@@ -1258,6 +1284,12 @@ QtWidgets/qwidget.h
 limits.h
 -
 
+D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qcolordialog.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qdialog.h
+-
+
 D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qdesktopwidget.h
 QtWidgets/qtwidgetsglobal.h
 -
@@ -1284,6 +1316,16 @@ QtWidgets/qdialog.h
 functional
 -
 
+D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qfontdialog.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtGui/qwindowdefs.h
+-
+QtGui/qfont.h
+-
+QtWidgets/qdialog.h
+-
+
 D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qframe.h
 QtWidgets/qtwidgetsglobal.h
 -
@@ -1298,6 +1340,12 @@ QtWidgets/qlayout.h
 QtWidgets/qwidget.h
 -
 limits.h
+-
+
+D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qlabel.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qframe.h
 -
 
 D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qlayout.h
@@ -1354,6 +1402,12 @@ D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qmenubar.h
 QtWidgets/qtwidgetsglobal.h
 -
 QtWidgets/qmenu.h
+-
+
+D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qmessagebox.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qdialog.h
 -
 
 D:/Qt5.14.2/5.14.2/mingw73_64/include/QtWidgets/qsizepolicy.h
@@ -1459,21 +1513,27 @@ D:/QtCode/Windows/texteditor/texteditor.h
 D:/QtCode/Windows/texteditor/ui_texteditor.h
 
 D:/QtCode/Windows/texteditor/texteditor.h
-QTextEdit
+iostream
 -
 QAction
 -
-QMainWindow
+QClipboard
 -
-iostream
+QColorDialog
 -
 QFile
 -
-QGridLayout
+QFileDialog
+-
+QFontDialog
+-
+QLabel
+-
+QMainWindow
+-
+QMessageBox
 -
 QTextStream
--
-QFileDialog
 -
 
 texteditor_autogen/include/ui_texteditor.h
@@ -1490,6 +1550,8 @@ QtWidgets/QMainWindow
 QtWidgets/QMenuBar
 -
 QtWidgets/QStatusBar
+-
+QtWidgets/QTextEdit
 -
 QtWidgets/QWidget
 -

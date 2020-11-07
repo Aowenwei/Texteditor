@@ -359,7 +359,7 @@
 			[
 				{
 					"name" : "HELPSTRING",
-					"value" : "Executable file format"
+					"value" : "Executable file menu_format_font"
 				}
 			],
 			"type" : "INTERNAL",

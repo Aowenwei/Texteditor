@@ -6,6 +6,30 @@
 
 #IncludeRegexTransform: 
 
+../texteditor.h
+QAction
+-
+QClipboard
+-
+QColorDialog
+-
+QFile
+-
+QFileDialog
+-
+QFontDialog
+-
+QLabel
+-
+QMainWindow
+-
+QMessageBox
+-
+QTextStream
+-
+iostream
+-
+
 D:/Qt5.14.2/5.14.2/mingw73_64/include/QtCore/QFile
 qfile.h
 D:/Qt5.14.2/5.14.2/mingw73_64/include/QtCore/qfile.h
@@ -1484,6 +1508,26 @@ QtGui/qcursor.h
 QtGui/qkeysequence.h
 -
 QtGui/qevent.h
+-
+
+D:/QtCode/Windows/texteditor/cmake-build-debug/texteditor_autogen/EWIEGA46WW/moc_texteditor.cpp
+memory
+-
+texteditor.h
+D:/QtCode/Windows/texteditor/cmake-build-debug/texteditor_autogen/EWIEGA46WW/texteditor.h
+QtCore/qbytearray.h
+-
+QtCore/qmetatype.h
+-
+
+D:/QtCode/Windows/texteditor/cmake-build-debug/texteditor_autogen/mocs_compilation.cpp
+EWIEGA46WW/moc_texteditor.cpp
+D:/QtCode/Windows/texteditor/cmake-build-debug/texteditor_autogen/EWIEGA46WW/moc_texteditor.cpp
+
+D:/QtCode/Windows/texteditor/main.cpp
+texteditor.h
+D:/QtCode/Windows/texteditor/texteditor.h
+QApplication
 -
 
 D:/QtCode/Windows/texteditor/texteditor.cpp

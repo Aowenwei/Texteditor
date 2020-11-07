@@ -25,10 +25,10 @@ class texteditor : public QMainWindow {
   Q_OBJECT
 
 public:
-  texteditor(QWidget *parent = nullptr);
+  explicit texteditor(QWidget *parent = nullptr);
   ~texteditor();
   void Menu();
-  void loadFile(QString filename);
+  void loadFile(const QString filename);
   void Creatslots();
 private slots:
   //菜单信号 -- 文件
@@ -43,6 +43,7 @@ private slots:
   void slot_menu_fontcolor();
   void slot_menu_Backgroundcolor();
   //菜单信号 -- 关于
+
   void slot_menu_About();
   //状态栏
   void slot_cursor_chang_state();
