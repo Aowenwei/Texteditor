@@ -22,8 +22,8 @@ QT_BEGIN_MOC_NAMESPACE
 QT_WARNING_PUSH
 QT_WARNING_DISABLE_DEPRECATED
 struct qt_meta_stringdata_texteditor_t {
-    QByteArrayData data[11];
-    char stringdata0[102];
+    QByteArrayData data[10];
+    char stringdata0[172];
 };
 #define QT_MOC_LITERAL(idx, ofs, len) \
     Q_STATIC_BYTE_ARRAY_DATA_HEADER_INITIALIZER_WITH_OFFSET(len, \
@@ -33,21 +33,22 @@ struct qt_meta_stringdata_texteditor_t {
 static const qt_meta_stringdata_texteditor_t qt_meta_stringdata_texteditor = {
     {
 QT_MOC_LITERAL(0, 0, 10), // "texteditor"
-QT_MOC_LITERAL(1, 11, 9), // "CreatFile"
-QT_MOC_LITERAL(2, 21, 0), // ""
-QT_MOC_LITERAL(3, 22, 8), // "loadFile"
-QT_MOC_LITERAL(4, 31, 8), // "filename"
-QT_MOC_LITERAL(5, 40, 8), // "openFile"
-QT_MOC_LITERAL(6, 49, 4), // "save"
-QT_MOC_LITERAL(7, 54, 5), // "about"
-QT_MOC_LITERAL(8, 60, 8), // "set_font"
-QT_MOC_LITERAL(9, 69, 13), // "set_fontcolor"
-QT_MOC_LITERAL(10, 83, 18) // "setBackgroundcolor"
+QT_MOC_LITERAL(1, 11, 17), // "slot_menu_Newfile"
+QT_MOC_LITERAL(2, 29, 0), // ""
+QT_MOC_LITERAL(3, 30, 18), // "slot_menu_Openfile"
+QT_MOC_LITERAL(4, 49, 18), // "slot_menu_Savefile"
+QT_MOC_LITERAL(5, 68, 17), // "slot_menu_Setfont"
+QT_MOC_LITERAL(6, 86, 19), // "slot_menu_fontcolor"
+QT_MOC_LITERAL(7, 106, 25), // "slot_menu_Backgroundcolor"
+QT_MOC_LITERAL(8, 132, 15), // "slot_menu_About"
+QT_MOC_LITERAL(9, 148, 23) // "slot_cursor_chang_state"
 
     },
-    "texteditor\0CreatFile\0\0loadFile\0filename\0"
-    "openFile\0save\0about\0set_font\0set_fontcolor\0"
-    "setBackgroundcolor"
+    "texteditor\0slot_menu_Newfile\0\0"
+    "slot_menu_Openfile\0slot_menu_Savefile\0"
+    "slot_menu_Setfont\0slot_menu_fontcolor\0"
+    "slot_menu_Backgroundcolor\0slot_menu_About\0"
+    "slot_cursor_chang_state"
 };
 #undef QT_MOC_LITERAL
 
@@ -66,17 +67,17 @@ static const uint qt_meta_data_texteditor[] = {
 
  // slots: name, argc, parameters, tag, flags
        1,    0,   54,    2, 0x08 /* Private */,
-       3,    1,   55,    2, 0x08 /* Private */,
-       5,    0,   58,    2, 0x08 /* Private */,
-       6,    0,   59,    2, 0x08 /* Private */,
-       7,    0,   60,    2, 0x08 /* Private */,
-       8,    0,   61,    2, 0x08 /* Private */,
-       9,    0,   62,    2, 0x08 /* Private */,
-      10,    0,   63,    2, 0x08 /* Private */,
+       3,    0,   55,    2, 0x08 /* Private */,
+       4,    0,   56,    2, 0x08 /* Private */,
+       5,    0,   57,    2, 0x08 /* Private */,
+       6,    0,   58,    2, 0x08 /* Private */,
+       7,    0,   59,    2, 0x08 /* Private */,
+       8,    0,   60,    2, 0x08 /* Private */,
+       9,    0,   61,    2, 0x08 /* Private */,
 
  // slots: parameters
     QMetaType::Void,
-    QMetaType::Void, QMetaType::QString,    4,
+    QMetaType::Void,
     QMetaType::Void,
     QMetaType::Void,
     QMetaType::Void,
@@ -93,17 +94,18 @@ void texteditor::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, 
         auto *_t = static_cast<texteditor *>(_o);
         Q_UNUSED(_t)
         switch (_id) {
-        case 0: _t->CreatFile(); break;
-        case 1: _t->loadFile((*reinterpret_cast< QString(*)>(_a[1]))); break;
-        case 2: _t->openFile(); break;
-        case 3: _t->save(); break;
-        case 4: _t->about(); break;
-        case 5: _t->set_font(); break;
-        case 6: _t->set_fontcolor(); break;
-        case 7: _t->setBackgroundcolor(); break;
+        case 0: _t->slot_menu_Newfile(); break;
+        case 1: _t->slot_menu_Openfile(); break;
+        case 2: _t->slot_menu_Savefile(); break;
+        case 3: _t->slot_menu_Setfont(); break;
+        case 4: _t->slot_menu_fontcolor(); break;
+        case 5: _t->slot_menu_Backgroundcolor(); break;
+        case 6: _t->slot_menu_About(); break;
+        case 7: _t->slot_cursor_chang_state(); break;
         default: ;
         }
     }
+    Q_UNUSED(_a);
 }
 
 QT_INIT_METAOBJECT const QMetaObject texteditor::staticMetaObject = { {

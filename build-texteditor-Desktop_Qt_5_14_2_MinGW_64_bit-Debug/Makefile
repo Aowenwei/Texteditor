@@ -262,7 +262,7 @@ texteditor_autogen/mocs_compilation.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\texteditor.dir\build.make CMakeFiles/texteditor.dir/texteditor_autogen/mocs_compilation.cpp.s
 .PHONY : texteditor_autogen/mocs_compilation.cpp.s
 
-# Help Target
+# menu_help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
 	@echo ... all (the default if no target is provided)

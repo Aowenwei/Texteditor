@@ -776,6 +776,10 @@ D:/Qt5.14.2/5.14.2/mingw73_64/include/QtCore/qversiontagging.h
 QtCore/qglobal.h
 -
 
+D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/QClipboard
+qclipboard.h
+D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qclipboard.h
+
 D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qbrush.h
 QtGui/qtguiglobal.h
 -
@@ -796,6 +800,12 @@ QtGui/qtransform.h
 QtGui/qimage.h
 -
 QtGui/qpixmap.h
+-
+
+D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qclipboard.h
+QtGui/qtguiglobal.h
+-
+QtCore/qobject.h
 -
 
 D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qcolor.h
@@ -1476,8 +1486,6 @@ QtGui/qkeysequence.h
 QtGui/qevent.h
 -
 
-D:/QtCode/Windows/texteditor/cmake-build-debug/texteditor_autogen/EWIEGA46WW/qrc_image.cpp
-
 D:/QtCode/Windows/texteditor/texteditor.cpp
 texteditor.h
 D:/QtCode/Windows/texteditor/texteditor.h
@@ -1487,11 +1495,17 @@ D:/QtCode/Windows/texteditor/ui_texteditor.h
 D:/QtCode/Windows/texteditor/texteditor.h
 QAction
 -
+QClipboard
+-
+QColorDialog
+-
 QFile
 -
 QFileDialog
 -
-QColorDialog
+QFontDialog
+-
+QLabel
 -
 QMainWindow
 -
@@ -1500,10 +1514,6 @@ QMessageBox
 QTextStream
 -
 iostream
--
-QFontDialog
--
-QLabel
 -
 
 texteditor_autogen/include/ui_texteditor.h

@@ -80,7 +80,9 @@ CMakeFiles/texteditor.dir/main.cpp.obj: D:/Qt5.14.2/5.14.2/mingw73_64/include/Qt
 CMakeFiles/texteditor.dir/main.cpp.obj: D:/Qt5.14.2/5.14.2/mingw73_64/include/QtCore/qvarlengtharray.h
 CMakeFiles/texteditor.dir/main.cpp.obj: D:/Qt5.14.2/5.14.2/mingw73_64/include/QtCore/qvector.h
 CMakeFiles/texteditor.dir/main.cpp.obj: D:/Qt5.14.2/5.14.2/mingw73_64/include/QtCore/qversiontagging.h
+CMakeFiles/texteditor.dir/main.cpp.obj: D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/QClipboard
 CMakeFiles/texteditor.dir/main.cpp.obj: D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qbrush.h
+CMakeFiles/texteditor.dir/main.cpp.obj: D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qclipboard.h
 CMakeFiles/texteditor.dir/main.cpp.obj: D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qcolor.h
 CMakeFiles/texteditor.dir/main.cpp.obj: D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qcursor.h
 CMakeFiles/texteditor.dir/main.cpp.obj: D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qevent.h
@@ -217,7 +219,9 @@ CMakeFiles/texteditor.dir/texteditor.cpp.obj: D:/Qt5.14.2/5.14.2/mingw73_64/incl
 CMakeFiles/texteditor.dir/texteditor.cpp.obj: D:/Qt5.14.2/5.14.2/mingw73_64/include/QtCore/qvarlengtharray.h
 CMakeFiles/texteditor.dir/texteditor.cpp.obj: D:/Qt5.14.2/5.14.2/mingw73_64/include/QtCore/qvector.h
 CMakeFiles/texteditor.dir/texteditor.cpp.obj: D:/Qt5.14.2/5.14.2/mingw73_64/include/QtCore/qversiontagging.h
+CMakeFiles/texteditor.dir/texteditor.cpp.obj: D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/QClipboard
 CMakeFiles/texteditor.dir/texteditor.cpp.obj: D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qbrush.h
+CMakeFiles/texteditor.dir/texteditor.cpp.obj: D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qclipboard.h
 CMakeFiles/texteditor.dir/texteditor.cpp.obj: D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qcolor.h
 CMakeFiles/texteditor.dir/texteditor.cpp.obj: D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qcursor.h
 CMakeFiles/texteditor.dir/texteditor.cpp.obj: D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qevent.h
@@ -374,7 +378,9 @@ CMakeFiles/texteditor.dir/texteditor_autogen/mocs_compilation.cpp.obj: D:/Qt5.14
 CMakeFiles/texteditor.dir/texteditor_autogen/mocs_compilation.cpp.obj: D:/Qt5.14.2/5.14.2/mingw73_64/include/QtCore/qvarlengtharray.h
 CMakeFiles/texteditor.dir/texteditor_autogen/mocs_compilation.cpp.obj: D:/Qt5.14.2/5.14.2/mingw73_64/include/QtCore/qvector.h
 CMakeFiles/texteditor.dir/texteditor_autogen/mocs_compilation.cpp.obj: D:/Qt5.14.2/5.14.2/mingw73_64/include/QtCore/qversiontagging.h
+CMakeFiles/texteditor.dir/texteditor_autogen/mocs_compilation.cpp.obj: D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/QClipboard
 CMakeFiles/texteditor.dir/texteditor_autogen/mocs_compilation.cpp.obj: D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qbrush.h
+CMakeFiles/texteditor.dir/texteditor_autogen/mocs_compilation.cpp.obj: D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qclipboard.h
 CMakeFiles/texteditor.dir/texteditor_autogen/mocs_compilation.cpp.obj: D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qcolor.h
 CMakeFiles/texteditor.dir/texteditor_autogen/mocs_compilation.cpp.obj: D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qcursor.h
 CMakeFiles/texteditor.dir/texteditor_autogen/mocs_compilation.cpp.obj: D:/Qt5.14.2/5.14.2/mingw73_64/include/QtGui/qevent.h

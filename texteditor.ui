@@ -39,7 +39,7 @@
     <string>Ctrl+N</string>
    </property>
   </action>
-  <action name="Open_file">
+  <action name="menu_file_Open">
    <property name="text">
     <string>打开(O)</string>
    </property>
